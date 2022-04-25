@@ -26,3 +26,4 @@
 ![이미지](https://user-images.githubusercontent.com/87174310/165035344-4dad5788-00bf-474a-8993-262a0ebb2bff.jpg "야구관람")
 
 * 뮤지컬관람
+![이미지](https://user-images.githubusercontent.com/87174310/165036237-5591a466-3785-4868-9050-eb02b1f38692.jpg "뮤지컬관람")
